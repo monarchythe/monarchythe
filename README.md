@@ -1,18 +1,15 @@
-## Hi there 👋 I am Monarch
+# Hi there 👋 I am Monarch
 
 Quick Introduction:
 
 - 🔭 I’m currently working on -> AI Data Engineering Project, production-grade Snowflake + dbt pipeline focused on modular transformations and analytics modeling and
-- 🌱 I’m currently learning -> Advanced AWS Data Engineering methodologies to broaden my multi-cloud expertise across Azure, GCP, and AWS
 - 🤔 I’m looking for help with -> Understanding the fact the AI will replace Data Engineers
 - 💬 Ask me about -> My recent Project [Azure Databricks End to End Pipeline](https://github.com/monarchythe/Azure-Databricks-Medallion-ETL-Spark-Project)
 - ⚡ Fun fact: I once built a full-stack AI data pipeline in just 24 hours to win an industry-sponsored challenge competing against nearly 400 other participants! [Check it out here](https://github.com/monarchythe/rainuse-nexus)
 
 # 💫 About Me:
 I am a Data Engineer with 4+ years of professional experience specializing in building scalable, production-grade ETL/ELT pipelines and cloud data architectures. 
-
 My core focus lies in transforming complex, raw datasets into optimized, analytics-ready infrastructure that drives business intelligence.
-
 Lately, my engineering focus has been centered on the cloud lakehouse and data warehouse ecosystems: 🚀 Recently Completed: Built an end-to-end Azure Databricks & Delta Lake platform utilizing the Medallion Architecture (Bronze  -> Silver -> Gold data layers) to optimize processing efficiency.
 
 # 💻 Tech Stack
@@ -56,16 +53,8 @@ Lately, my engineering focus has been centered on the cloud lakehouse and data w
 ![](https://github-readme-stats.shion.dev/api?username=monarchythe&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=monarchythe&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=monarchythe&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=monarchythe&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=monarchythe&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monarch_nigam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/monarch-nigam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nigam.monarchy@gmail.com) 
 
