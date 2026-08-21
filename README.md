@@ -15,7 +15,10 @@ Lately, my engineering focus has been centered on the cloud lakehouse and data w
 ### 💻 Tech Stack
 
 #### ***Top skills***
-**<span style="color:#FF6F00;">Databricks</span>** | 
+**<span style="color:#FF6F00;">Snowflake</span>** | 
+**<span style="color:#FF6F00;">DBT</span>** | 
+**<span style="color:#FF6F00;">RAG</span>** | 
+**<span style="color:#FF6F00;">LLM Integration</span>** | 
 **<span style="color:#FF8A65;">Unity Catalog</span>** | 
 **<span style="color:#008080;">Delta Lake</span>** | 
 **<span style="color:#FF5722;">Delta Live Tables (Lakeflow)</span>** | 
